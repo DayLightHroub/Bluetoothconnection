@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth connection</string>
+    <string name="chooseDevice">Please choose a device from the list, if no deivce found, pair your device with an other device.</string>
+</resources>
